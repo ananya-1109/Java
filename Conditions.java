@@ -34,5 +34,6 @@ public class Conditions {
             default:
                 System.out.println("invalid button");
         }
+        sc.close();
     }
 }
