@@ -19,5 +19,7 @@ public class Loops {
             System.out.println(j);
             j = j + 1;
         } while (i < 3);
+
+        sc.close();
     }
 }
