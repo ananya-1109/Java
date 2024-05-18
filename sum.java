@@ -18,5 +18,7 @@ public class sum {
         int y = sc.nextInt();
         int s = x + y;
         System.out.println(s);
+
+        sc.close();
     }
 }
