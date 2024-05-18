@@ -38,5 +38,7 @@ public class Functions {
 
         int X = sc.nextInt();
         printFactorial(X);
+
+        sc.close();
     }
 }
